@@ -1,0 +1,15 @@
+export const constants = {
+    SET_TOTAL_RECORD: 'SET_TOTAL_RECORD',
+    IS_LOADING: 'IS_LOADING',
+    IS_UPDATE_STATE: 'IS_UPDATE_STATE',
+    IS_META: 'IS_META'
+};
+
+export const userActionType = {
+    FETCH_USERS: 'FETCH_USERS',
+    FETCH_USER_ALL: 'FETCH_USER_ALL',
+    FETCH_USER: 'FETCH_USER',
+    ADD_USER: 'ADD_USER',
+    UPDATE_USER: 'UPDATE_USER',
+    DELETE_USER: 'DELETE_USER',
+};
